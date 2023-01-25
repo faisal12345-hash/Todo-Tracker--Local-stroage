@@ -32,3 +32,25 @@ ul {
     margin-bottom: 15px;
     border-radius: 5px;
  }
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+  /* styles for tablets and desktop screens go here */
+  body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  ul {
+    width: 250px;
+  }
+  input {
+    width: 250px;
+  }
+  #title {
+    width: 250px;
+  }
+}
+
+
+
