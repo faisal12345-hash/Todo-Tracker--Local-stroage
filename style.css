@@ -13,10 +13,17 @@ body {
 #todo-header {
     font-size: 24px;
 }
+input {
+width:100%;
+padding: 5px;
+}
+h2 {
+text-align: center;
+}
 ul {
     list-style: none;
     padding-left: 0;
-    width: 250px;
+    width: 100%;
 }
  li {
     color: #333;
