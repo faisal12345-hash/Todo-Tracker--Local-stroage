@@ -7,7 +7,7 @@ body {
     padding: 10px;
     font-size: 36px;
     border: 2px solid #fff;
-    width: 250px;
+    width: 100%;
 }
 
 #todo-header {
